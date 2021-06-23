@@ -1,5 +1,6 @@
-# Ola Mundo
+# Hallo Welt!
  Primeiro repositorio versionado
 Hallo Welt!!
 Tentando Sincronizar
-Já sincronizando.
+Alterado para Deustch
+
